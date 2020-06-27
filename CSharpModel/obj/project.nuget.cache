@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+r4h/kNLlCQ7uWS4mdx5JID5iPE/SrC5edWPcI1AjGoKVAlSIoAYM2i6m75cSBw71+tXsAMCfkakcd6rjIvT+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Owner\\Downloads\\n10240471\\CSharpModel\\CSharpWizard.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Owner\\.nuget\\packages\\fsharp.core\\4.7.1\\fsharp.core.4.7.1.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

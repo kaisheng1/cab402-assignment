@@ -1,0 +1,14 @@
+C:\Users\Owner\Downloads\n10240471\CSharpModel\bin\Debug\netstandard2.0\CSharpWizard.deps.json
+C:\Users\Owner\Downloads\n10240471\CSharpModel\bin\Debug\netstandard2.0\CSharpWizard.dll
+C:\Users\Owner\Downloads\n10240471\CSharpModel\bin\Debug\netstandard2.0\CSharpWizard.pdb
+C:\Users\Owner\Downloads\n10240471\CSharpModel\bin\Debug\netstandard2.0\CourseData.dll
+C:\Users\Owner\Downloads\n10240471\CSharpModel\bin\Debug\netstandard2.0\FSharpModel.dll
+C:\Users\Owner\Downloads\n10240471\CSharpModel\bin\Debug\netstandard2.0\FSharpModel.pdb
+C:\Users\Owner\Downloads\n10240471\CSharpModel\bin\Debug\netstandard2.0\CourseData.pdb
+C:\Users\Owner\Downloads\n10240471\CSharpModel\obj\Debug\netstandard2.0\CSharpWizard.csprojAssemblyReference.cache
+C:\Users\Owner\Downloads\n10240471\CSharpModel\obj\Debug\netstandard2.0\CSharpWizard.AssemblyInfoInputs.cache
+C:\Users\Owner\Downloads\n10240471\CSharpModel\obj\Debug\netstandard2.0\CSharpWizard.AssemblyInfo.cs
+C:\Users\Owner\Downloads\n10240471\CSharpModel\obj\Debug\netstandard2.0\CSharpWizard.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Downloads\n10240471\CSharpModel\obj\Debug\netstandard2.0\CSharpWizard.csproj.CopyComplete
+C:\Users\Owner\Downloads\n10240471\CSharpModel\obj\Debug\netstandard2.0\CSharpWizard.dll
+C:\Users\Owner\Downloads\n10240471\CSharpModel\obj\Debug\netstandard2.0\CSharpWizard.pdb

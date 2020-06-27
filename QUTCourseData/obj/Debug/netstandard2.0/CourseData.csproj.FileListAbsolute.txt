@@ -1,0 +1,11 @@
+C:\Users\Owner\Downloads\n10240471\QUTCourseData\bin\Debug\netstandard2.0\CourseData.deps.json
+C:\Users\Owner\Downloads\n10240471\QUTCourseData\bin\Debug\netstandard2.0\CourseData.dll
+C:\Users\Owner\Downloads\n10240471\QUTCourseData\bin\Debug\netstandard2.0\CourseData.pdb
+C:\Users\Owner\Downloads\n10240471\QUTCourseData\obj\Debug\netstandard2.0\CourseData.csprojAssemblyReference.cache
+C:\Users\Owner\Downloads\n10240471\QUTCourseData\obj\Debug\netstandard2.0\CourseData.Properties.Resources.resources
+C:\Users\Owner\Downloads\n10240471\QUTCourseData\obj\Debug\netstandard2.0\CourseData.csproj.GenerateResource.cache
+C:\Users\Owner\Downloads\n10240471\QUTCourseData\obj\Debug\netstandard2.0\CourseData.AssemblyInfoInputs.cache
+C:\Users\Owner\Downloads\n10240471\QUTCourseData\obj\Debug\netstandard2.0\CourseData.AssemblyInfo.cs
+C:\Users\Owner\Downloads\n10240471\QUTCourseData\obj\Debug\netstandard2.0\CourseData.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Downloads\n10240471\QUTCourseData\obj\Debug\netstandard2.0\CourseData.dll
+C:\Users\Owner\Downloads\n10240471\QUTCourseData\obj\Debug\netstandard2.0\CourseData.pdb
